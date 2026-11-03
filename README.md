@@ -70,7 +70,7 @@ Copy the folders under `skills/` into your agent's skills directory (Hermes Agen
 
 ## Origin
 
-This is the public, generalized version of a system I have run daily since 2024 in private, IP-gated environments: first at a DeFi lending protocol, now at a fintech. Company data, partner names, deal terms, and employer-specific processes have been removed; the structure is the one in production, and the specifics are placeholders. Where a skill says "partner" or "audience," substitute your own.
+This is the public, generalized version of a system I have run daily since December 2025 in private, IP-gated environments: first at a DeFi lending protocol, now at a fintech. Company data, partner names, deal terms, and employer-specific processes have been removed; the structure is the one in production, and the specifics are placeholders. Where a skill says "partner" or "audience," substitute your own.
 
 ## License
 
